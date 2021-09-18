@@ -1,0 +1,5 @@
+# IntelliJ project files
+*.orig
+.DS_Store
+*.class
+out
